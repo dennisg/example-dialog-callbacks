@@ -8,7 +8,7 @@ android {
     compileSdkVersion 26
 
     defaultConfig {
-        applicationId "com.nedap.retail.exampledialogfragment"
+        applicationId "nl.dennisg.dlg.example"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

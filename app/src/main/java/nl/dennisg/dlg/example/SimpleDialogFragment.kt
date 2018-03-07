@@ -23,7 +23,7 @@ class SimpleDialogFragment: DialogFragment() {
                 }
             }
         } else {
-            // will throw an exception
+            // will throw an exception if not met
             activity as DialogResultListener
         }
     }
